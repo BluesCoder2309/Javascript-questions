@@ -21,3 +21,15 @@
 11. Write a JS function to get the number of occurences of each letter in a specified string.
 
 12. Loop over an array and add all the elements in it.
+
+13. In an array of numbers and strings, add only the number elements or not strings.
+
+14. Loop over an array of objects and remove all objects which dont have gender's value as male.
+
+15. Write a JS function to clone an array.
+
+16. Write a JS function to get the first element of an array. Passing a parameter 'n' will return the first n elements of the array.
+
+17. Write a JS function to get the last element of an array. Passing a parameter 'n' will return the last n elements of the array.
+
+18. Write a JS program to find the most frequent item of an array.
