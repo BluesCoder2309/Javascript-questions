@@ -33,3 +33,9 @@
 17. Write a JS function to get the last element of an array. Passing a parameter 'n' will return the last n elements of the array.
 
 18. Write a JS program to find the most frequent item of an array.
+
+19. Write a JS program to shuffle an array.
+
+20. Write a JS program to compute the union of two arrays.
+sample: console.log(union([1,2,3],[100,2,1,10]));
+[1,2,3,10,100]
